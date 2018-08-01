@@ -1,3 +1,7 @@
+---
+maintainer: praqma-thi
+---
+
 # Warnings parser for LinkChecker
 This repo contains all you need to configure a Warnings plugin parser in Jenkins.
 
